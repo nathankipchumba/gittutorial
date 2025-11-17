@@ -1,2 +1,2 @@
 console.log("Config js");
-console.log("version 4");
+console.log("version 5");
